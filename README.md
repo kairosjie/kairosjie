@@ -1,16 +1,25 @@
 ## Hi there 👋
 
 <!--
-**kairosjie/kairosjie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Kairos, an Egyptian high school student who loves graphics design.
 
-Here are some ideas to get you started:
+I am currently learning skills and basics and trying to learn through creation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- I mostly use figma ui design and aspirate for pixel art, also I am learning other programs
+- I’m currently learning graphics design and web development
+- I have worked on Splatapp as a graphics and ui designer / marketer and community builder.
+_______________________________________________________________________________________________________
+
+## Tools and Tech
+- Figma
+- Aspirate
+- Visual Studio
+- Krita
+_______________________________________________________________________________________________________
+
+## a bit about me
+- I love History and linguistics
+- I love learning languages and studying ancient languages
+- Visual Learner
+- Love Socializing
 -->
