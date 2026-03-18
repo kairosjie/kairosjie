@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 I am Kairos, an Egyptian high school student who loves graphics design.
 
 I am currently learning skills and basics and trying to learn through creation.
