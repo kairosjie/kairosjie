@@ -4,16 +4,18 @@ I am Keros (Καιρός), an Egyptian high school student who loves graphics de
 
 I am currently learning skills and basics and trying to learn through creation.
 
-- I mostly use figma for ui design and aspirate for pixel art, also I am learning other programs.
+- I mostly use Figma for ui design and Aseprite for pixel art, also I am learning other programs.
 - I’m currently learning graphics design and web development.
 - I have worked on Splatapp as a graphics and ui designer / marketer and community builder.
 _______________________________________________________________________________________________________
 
 ## Tools and Tech
 - Figma
-- Aspirate
+- Aseprite
 - Visual Studio
 - Krita
+- Blender
+- Filmora
 _______________________________________________________________________________________________________
 
 ## a bit about me
